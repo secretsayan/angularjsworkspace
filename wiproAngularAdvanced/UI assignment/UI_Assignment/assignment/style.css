@@ -1,0 +1,34 @@
+div#sliderSection, div#highlightSection, div#mainContent, div#lowerContent, footer{
+    width:100%; 
+    margin:0;
+}
+div#carouselExampleControls, div#mainContent, div#lowerContent, div#highlightSection{
+    margin-top: 2%;
+}
+footer{
+    height: 5%;
+    background-color: blue;
+}
+div.contentClass{
+    text-align: center;;
+}
+
+div#lowerContent div.contentClass{
+    padding: 2%;
+}
+
+footer{
+    color: white;
+    font-size: smaller;
+    margin: 0 !important;
+    background-color: 007bff!important;
+    padding: .75rem 1.25rem;
+}
+
+div#footer-right{
+    text-align:right;
+    
+}
+div#footer-right span{
+    padding: 2%;
+}
